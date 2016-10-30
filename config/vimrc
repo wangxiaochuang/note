@@ -34,4 +34,4 @@ set list
 
 nmap wm :NERDTreeToggle<cr>
 set relativenumber
-autocmd FileType c set shiftwidth=4|set ts=4|set expandtab
+autocmd FileType c,sh set shiftwidth=4|set ts=4|set expandtab
